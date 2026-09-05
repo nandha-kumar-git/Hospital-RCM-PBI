@@ -2,7 +2,6 @@
 
 > An interactive Power BI dashboard designed to analyze hospital Revenue Cycle Management (RCM), claims performance, denials, payments, outstanding balances, and revenue realization.
 
-![Hospital RCM Executive Dashboard](screenshots/rcm-executive-overview.png)
 
 ---
 
@@ -159,7 +158,6 @@ The dashboard provides interactive analysis through:
 * Category-level filtering
 * Time-based analysis
 
-![RCM Interactive Analysis](screenshots/rcm-interactive-analysis.png)
 
 ---
 
