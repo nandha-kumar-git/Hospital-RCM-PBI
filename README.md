@@ -86,7 +86,6 @@ The dashboard focuses on the following major KPIs:
 
 The executive overview provides a high-level summary of claim volume, denial performance, payment realization, and revenue-cycle KPIs.
 
-![RCM Executive Overview](screenshots/rcm-executive-overview.png)
 
 ---
 
@@ -102,8 +101,6 @@ The analysis includes:
 * Specialty-level analysis
 * Claim status
 
-![RCM Denial Analysis](screenshots/rcm-denial-analysis.png)
-
 ---
 
 ### 3. Revenue & Payment Analysis
@@ -118,7 +115,6 @@ Key areas include:
 * Payment trends
 * Days to payment
 
-![RCM Revenue and Payment Analysis](screenshots/rcm-revenue-payment-analysis.png)
 
 ---
 
@@ -134,7 +130,6 @@ The analysis helps identify:
 * Delayed payments
 * Revenue requiring follow-up
 
-![RCM AR Analysis](screenshots/rcm-ar-analysis.png)
 
 ---
 
@@ -142,7 +137,6 @@ The analysis helps identify:
 
 The Power BI data model was designed to establish relationships between the core RCM datasets and support efficient filtering and aggregation.
 
-![RCM Data Model](screenshots/rcm-data-model.png)
 
 The model incorporates:
 
