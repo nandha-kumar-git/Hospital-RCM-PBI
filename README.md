@@ -224,12 +224,7 @@ hospital-rcm-powerbi-dashboard/
 │   ├── rcm-ar-analysis.png
 │   ├── rcm-data-model.png
 │   └── rcm-interactive-analysis.png
-│
-└── documentation/
-    ├── business-questions.md
-    ├── data-dictionary.md
-    ├── dax-measures.md
-    └── methodology.md
+
 ```
 
 
