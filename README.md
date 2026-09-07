@@ -218,12 +218,11 @@ hospital-rcm-powerbi-dashboard/
 │   └── hospital_rcm_raw_data.xlsx
 │
 ├── screenshots/
-│   ├── rcm-executive-overview.png
-│   ├── rcm-denial-analysis.png
-│   ├── rcm-revenue-payment-analysis.png
-│   ├── rcm-ar-analysis.png
-│   ├── rcm-data-model.png
-│   └── rcm-interactive-analysis.png
+│   ├── 01. Kpi's
+│   ├── 02. Revenue realization kpi
+│   ├── 03. Dax  functions used
+│   ├── 04. Dashboard_page-1
+│   ├── 05. Dashboard_page-2
 
 ```
 
