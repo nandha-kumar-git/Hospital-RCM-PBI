@@ -209,8 +209,6 @@ The purpose is not only to visualize data but also to support **data-driven Reve
 ```text
 hospital-rcm-powerbi-dashboard/
 │
-├── README.md
-│
 ├── dashboard/
 │   └── Hospital RCM Dashboard.pbix
 │
@@ -223,6 +221,8 @@ hospital-rcm-powerbi-dashboard/
 │   ├── 03. Dax  functions used
 │   ├── 04. Dashboard_page-1
 │   ├── 05. Dashboard_page-2
+│
+├── README.md
 
 ```
 
