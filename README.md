@@ -213,7 +213,7 @@ hospital-rcm-powerbi-dashboard/
 │   └── Hospital RCM Dashboard.pbix
 │
 ├── data/
-│   └── hospital_rcm_raw_data.xlsx
+│   └── Professional_Synthetic_RCM_Dataset_10000.xlsx
 │
 ├── screenshots/
 │   ├── 01. Kpi's
